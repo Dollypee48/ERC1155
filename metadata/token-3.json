@@ -1,25 +1,10 @@
 {
-  "name": "Health Potion",
-  "description": "A powerful healing potion that restores 100 HP. Essential for any adventurer's inventory.",
-  "image": "ipfs://QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG/potion.png",
+  "name": "NFT THREE",
+  "description": "A premium NFT artwork preserved on IPFS.",
+  "image": "ipfs://bafybeicmmvw6gwlv62lt2kqjaf5slreiso4erecoj7aohlerh64dhr6pre/NFT_THREE.png",
   "attributes": [
-    {
-      "trait_type": "Rarity",
-      "value": "Common"
-    },
-    {
-      "trait_type": "Healing Power",
-      "value": 100
-    },
-    {
-      "trait_type": "Type",
-      "value": "Consumable"
-    },
-    {
-      "trait_type": "Stackable",
-      "value": true
-    }
+    { "trait_type": "Edition", "value": "One of One" },
+    { "trait_type": "Category", "value": "Digital Art" }
   ],
   "external_url": "https://example.com/token/3"
 }
-

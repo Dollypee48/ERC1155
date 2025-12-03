@@ -1,25 +1,10 @@
 {
-  "name": "Epic Sword",
-  "description": "A legendary sword forged in the fires of Mount Doom. This weapon grants +50 attack power and +25 defense.",
-  "image": "ipfs://QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG/sword.png",
+  "name": "NFT ONE",
+  "description": "A unique digital artwork stored on IPFS.",
+  "image": "ipfs://bafybeidvkdbwkiomycefc4mr6uf7uz4v7gakaqjrcawdahdlt3yqztxg54/NFT_ONE.png",
   "attributes": [
-    {
-      "trait_type": "Rarity",
-      "value": "Legendary"
-    },
-    {
-      "trait_type": "Attack Power",
-      "value": 50
-    },
-    {
-      "trait_type": "Defense",
-      "value": 25
-    },
-    {
-      "trait_type": "Type",
-      "value": "Weapon"
-    }
+    { "trait_type": "Edition", "value": "One of One" },
+    { "trait_type": "Category", "value": "Digital Art" }
   ],
   "external_url": "https://example.com/token/1"
 }
-
