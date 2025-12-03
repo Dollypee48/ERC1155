@@ -1,0 +1,25 @@
+{
+  "name": "Magic Shield",
+  "description": "An enchanted shield that provides protection against dark magic. Grants +40 defense and +15 magic resistance.",
+  "image": "ipfs://QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG/shield.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Defense",
+      "value": 40
+    },
+    {
+      "trait_type": "Magic Resistance",
+      "value": 15
+    },
+    {
+      "trait_type": "Type",
+      "value": "Armor"
+    }
+  ],
+  "external_url": "https://example.com/token/2"
+}
+
